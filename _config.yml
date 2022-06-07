@@ -57,13 +57,13 @@ footer:
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-#social:
-#  - title: linkedin
-#      url: https://linkedin.com/in/marco-toldo-25132219b/
-#  - title: github
-#      url: http://github.com/marco-toldo
-#  - title: google-scholar
-#      url: https://scholar.google.com/citations?user=of1jywQAAAAJ&hl=it&authuser=2
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/marco-toldo-25132219b
+  - title: github
+    url: http://github.com/marco-toldo
+  - title: google-scholar
+    url: https://scholar.google.it/citations?user=of1jywQAAAAJ&hl=en
 
 
 # Postal address (add as many lines as necessary)
@@ -71,7 +71,7 @@ address:
   - line: Padova
 
 # Credits content
-credits: 'Freelancer Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
